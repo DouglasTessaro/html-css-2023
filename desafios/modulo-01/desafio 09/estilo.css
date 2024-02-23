@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+button{
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+div {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+div a{
+    text-decoration: none;
+    color: white;
+}
